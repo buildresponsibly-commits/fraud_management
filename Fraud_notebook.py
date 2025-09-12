@@ -1,3 +1,20 @@
+# %%
+# jupytext:
+#   formats: py:percent,ipynb
+#   text_representation:
+#     extension: .py
+#     format_name: percent
+#     format_version: '1.3'
+#     jupytext_version: '1.16.0'
+
+# %% [markdown]
+# Credit Card Fraud Detection with Risk-Based Rules
+#
+# This script is structured with Jupytext cell markers so it can be converted to a Jupyter Notebook
+# and executed to persist rich outputs in GitHub. To convert and execute:
+# 1) jupytext --to ipynb Fraud_notebook.py
+# 2) papermill Fraud_notebook.ipynb Fraud_notebook.executed.ipynb
+
 # Credit Card Fraud Detection with Risk-Based Rules
 # Objective: Define rules for credit card fraud with three risk levels:
 # - Low risk: Accept
