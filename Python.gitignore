@@ -211,3 +211,6 @@ __marimo__/
 
 # Output folders
 output/
+
+# Large dataset files
+creditcard.csv
